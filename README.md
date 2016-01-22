@@ -37,6 +37,32 @@ This will require a you to use `if` `else` statements.
  **TIP:** Before writing code, it may be beneficial to write down on a scrap of paper the logic that will be used 
  to determine a winner. Writing in plain english before writing in code is a good idea!!!
 
+```javascript
+
+var x = ?;
+
+if(x === 5){
+	//x is equal to 5
+} else if(x > 4){
+	//x is not equal to 5, but is greater than 4
+} else if(x < 2){
+	//x is not equal to 5, not greater than 4, but is less than 2.
+} else{
+	//x is not equal to 5, not greater than 4, and not less than 2.
+}
+
+
+//it is also possible to nest if statements
+if(x > 5){
+	//x is greater than 5
+	if(x < 7 ){
+		//X is between 5 and 7.
+	}else{
+		//x is greater than 7
+	}
+}
+```
+
 When a winner is found, let the user know. You can do so by displaying an alert with a message...
 `google javascript alert`;
 
