@@ -21,7 +21,7 @@ Javascript
 -----------
 The following code should be written in the app.js file.
 
-###The Play Function
+### The Play Function
 Begin by creating a function named `play`.
 
 The function should accept a single argument that represent the players choice: "rock" "paper" or "scissors".
@@ -30,7 +30,7 @@ A good name for the argument might be `playerChoice`.
 Inside the function we will need to create a variable to hold the value for the computer's choice.
 For now, assign the value of computer's choice to "rock".
 
-###Determine a Winner!
+### Determine a Winner!
 We are now going to add logic to the `play function` that will determine who wins the game. 
 This will require a you to use `if` `else` statements.
 
@@ -70,4 +70,4 @@ For bonus points, you may want to try writing a message back to the user interfa
 try that one on your own. Hint... `document.getElementById()` and `.textContent`
 
 
-#Good Luck! 
+# Good Luck! 
