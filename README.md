@@ -69,5 +69,8 @@ When a winner is found, let the user know. You can do so by displaying an alert 
 For bonus points, you may want to try writing a message back to the user interface. But I will let you
 try that one on your own. Hint... `document.getElementById()` and `.textContent`
 
+<p>
+	<img src="https://i.pinimg.com/originals/7d/97/c8/7d97c8aa8cd3a2190c4e24541e61f539.gif" width="350">
+	</p>
 
 # Good Luck! 
