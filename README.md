@@ -7,7 +7,7 @@ User Interface
 Start by creating a user interface for the game.  
 
 The interface can look however you want it to. It might be a good idea
-to look at examples of the `panel` component in the bootstrap documentation.
+to look at examples of the `card` component in the bootstrap documentation.
 
 The interface should be simple and must contain at least 3 buttons: Rock, Paper, and Scissors.
 
